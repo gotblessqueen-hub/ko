@@ -1,14 +1,5 @@
-hkho
-jgugi
-guu
-hihiohihiho
-
-Câu 35: Đại đoàn kết dân tộc được Hồ Chí Minh xác định là?
-
-A) Yếu tố sách lược của cách mạng
-
-B) Là một thủ đoạn chính trị
-
-C) Là yếu tố cần thiết trong cuộc đấu tranh giải phóng dân tộc
-
-(D) Là mục tiêu, nhiệm vụ hàng đầu của cách mạng
+-	“muốn là bạn” (Đại hội VII)
+-	“sẵn sàng là bạn (Đại hội VIII)
+-	“là bạn và đối tác tin cậy’’ (Đại hội IX)
+-	Đại hội XII: “Quan hệ đối ngoại, hội nhập quốc tế ngày càng sâu rộng, có hiệu quả, vị thể, uy tin quốc tế của nước ta tiếp tục nâng cao”
+-	Đại hội XIII: Đất nước ta chưa bao giờ có được cơ dồ tiềm lực, vị tế, uy tín quốc tế như ngày hôm nay
