@@ -352,8 +352,3 @@ Vai trò CMCN đối với phát triển (LLSX + QHSX + quản trị)
 Các cuộc CMCN làm cho... (đầu vào thay đổi + ít phụ thuộc TN + mất lợi thế SX truyền thống)
 CMCN 3 (điện tử + máy tính + số hóa)
 Thương hiệu cầu thủ bóng đá quyết định bởi... (tài năng + khan hiếm + ...)
-
-
-
-Thi ngày 17/6/2026 · 13:00 · Phòng A2-601/602 · Trắc nghiệm 50 câu · 50 phút
-
