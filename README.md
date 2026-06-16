@@ -1,22 +1,22 @@
 KINH TẾ CHÍNH TRỊ MÁC–LÊNIN — BẢN ÔN THI
 
 CÔNG THỨC TRỌNG TÂM
-W = c + v + m (giá trị hàng hóa)
-k = c + v (chi phí sản xuất TBCN)
-p = G − k (lợi nhuận)
-m' = m/v × 100% (tỷ suất giá trị thặng dư = mức độ bóc lột)
-M = m' × V (khối lượng giá trị thặng dư = bóc lột theo chiều rộng)
-p' = p/(c+v) × 100% (tỷ suất lợi nhuận)
-P̄ = P̄' × k (lợi nhuận bình quân)
-q = c/v (cấu tạo hữu cơ tư bản)
-n = CH/ch (tốc độ chu chuyển; CH = thời gian 1 năm; ch = thời gian 1 vòng)
-Giá cả đất = Địa tô ÷ Tỷ suất lợi tức ngân hàng
+W = c + v + m (giá trị hàng hóa) 
+k = c + v (chi phí sản xuất TBCN) 
+p = G − k (lợi nhuận) 
+m' = m/v × 100% (tỷ suất giá trị thặng dư = mức độ bóc lột) 
+M = m' × V (khối lượng giá trị thặng dư = bóc lột theo chiều rộng) 
+p' = p/(c+v) × 100% (tỷ suất lợi nhuận) 
+P̄ = P̄' × k (lợi nhuận bình quân) 
+q = c/v (cấu tạo hữu cơ tư bản) 
+n = CH/ch (tốc độ chu chuyển; CH = thời gian 1 năm; ch = thời gian 1 vòng) 
+Giá cả đất = Địa tô ÷ Tỷ suất lợi tức ngân hàng 
 
 Lưu ý so sánh quan trọng:
 
-p' < m' vì mẫu số (c+v) > v
-Giá cả đất thuận chiều địa tô, nghịch chiều lãi suất NH
-80c + 20v + 30m → giá trị cũ = 80 (c); giá trị mới = 50 (v+m)
+p' < m' vì mẫu số (c+v) > v 
+Giá cả đất thuận chiều địa tô, nghịch chiều lãi suất NH 
+80c + 20v + 30m → giá trị cũ = 80 (c); giá trị mới = 50 (v+m) 
 
 
 MỤC LỤC
@@ -323,32 +323,3 @@ Nhận thức sâu sắc về thời cơ và thách thức do hội nhập mang 
 Nâng cao năng lực cạnh tranh của nền KT
 Hoàn thiện thể chế KT, môi trường KD theo chuẩn QT
 Đa phương hóa, đa dạng hóa; không lệ thuộc vào ít đối tác         
-      
-
-PHỤ LỤC — BẪY THI THƯỜNG GẶP
-Các câu KHÔNG PHẢI / SAI
-Thị trường SAI = nơi diễn ra SX và tiêu dùng SP
-Độc quyền KHÔNG thủ tiêu cạnh tranh
-Hao mòn vô hình = mất thuần túy về giá trị (không phải GTSD)
-Hao mòn hữu hình = mất cả giá trị lẫn GTSD
-KHÔNG phải chức năng NN: trực tiếp quản lý SXKD từng DNNN
-KHÔNG phải công cụ vĩ mô NN: Cung–Cầu
-KHÔNG phải vai trò NN: can thiệp sâu vào quá trình KT
-KHÔNG phải chức năng sở hữu NN: đầu tư ngành vốn ít lợi nhuận cao
-KHÔNG phải cách hình thành sở hữu NN: mua XN đang hoạt động bình thường ở nước ngoài
-KHÔNG phải biểu hiện mới XK TB: luồng TB từ nước PT → kém PT chiếm >70%
-KHÔNG phải khuyết tật TT: phân bổ nguồn lực hiệu quả (đây là ưu điểm)
-Lenin trong "CNĐQ" KHÔNG bàn về: giá trị lao động
-p' < m' (không bằng, không lớn hơn)
-Các câu TẤT CẢ ĐÁP ÁN ĐỀU ĐÚNG
-Vàng bạc làm tiền tệ vì...
-Vai trò chủ thể trung gian thương nhân
-Người SX trong KTTT (mục tiêu, trách nhiệm, quyền lợi)
-Người tiêu dùng trong KTTT
-Thị trường chứng khoán (huy động vốn + gắn kết KT + làm giàu)
-CNTB ĐQ ra đời do...
-Cạnh tranh không lành mạnh tác động tiêu cực
-Vai trò CMCN đối với phát triển (LLSX + QHSX + quản trị)
-Các cuộc CMCN làm cho... (đầu vào thay đổi + ít phụ thuộc TN + mất lợi thế SX truyền thống)
-CMCN 3 (điện tử + máy tính + số hóa)
-Thương hiệu cầu thủ bóng đá quyết định bởi... (tài năng + khan hiếm + ...)
