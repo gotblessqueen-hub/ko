@@ -1,22 +1,22 @@
 KINH TẾ CHÍNH TRỊ MÁC–LÊNIN — BẢN ÔN THI
 
 CÔNG THỨC TRỌNG TÂM
-W = c + v + m (giá trị hàng hóa) 
-k = c + v (chi phí sản xuất TBCN) 
-p = G − k (lợi nhuận) 
-m' = m/v × 100% (tỷ suất giá trị thặng dư = mức độ bóc lột) 
-M = m' × V (khối lượng giá trị thặng dư = bóc lột theo chiều rộng) 
-p' = p/(c+v) × 100% (tỷ suất lợi nhuận) 
-P̄ = P̄' × k (lợi nhuận bình quân) 
-q = c/v (cấu tạo hữu cơ tư bản) 
-n = CH/ch (tốc độ chu chuyển; CH = thời gian 1 năm; ch = thời gian 1 vòng) 
-Giá cả đất = Địa tô ÷ Tỷ suất lợi tức ngân hàng 
+W = c + v + m (giá trị hàng hóa)         
+k = c + v (chi phí sản xuất TBCN)                     
+p = G − k (lợi nhuận)                                       
+m' = m/v × 100% (tỷ suất giá trị thặng dư = mức độ bóc lột)           
+M = m' × V (khối lượng giá trị thặng dư = bóc lột theo chiều rộng)           
+p' = p/(c+v) × 100% (tỷ suất lợi nhuận)      
+P̄ = P̄' × k (lợi nhuận bình quân)           
+q = c/v (cấu tạo hữu cơ tư bản)            
+n = CH/ch (tốc độ chu chuyển; CH = thời gian 1 năm; ch = thời gian 1 vòng)          
+Giá cả đất = Địa tô ÷ Tỷ suất lợi tức ngân hàng           
 
 Lưu ý so sánh quan trọng:
 
-p' < m' vì mẫu số (c+v) > v 
-Giá cả đất thuận chiều địa tô, nghịch chiều lãi suất NH 
-80c + 20v + 30m → giá trị cũ = 80 (c); giá trị mới = 50 (v+m) 
+p' < m' vì mẫu số (c+v) > v          
+Giá cả đất thuận chiều địa tô, nghịch chiều lãi suất NH            
+80c + 20v + 30m → giá trị cũ = 80 (c); giá trị mới = 50 (v+m)            
 
 
 MỤC LỤC
