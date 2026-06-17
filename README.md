@@ -76,7 +76,7 @@ Các vị trí (Quantiles)
 Tứ phân vị (Quartile): Q1, Q2, Q3 chia dữ liệu thành 4 phần bằng nhau; Q2 chính là trung vị
 Bách phân vị (Percentile): P1 đến P99 chia dữ liệu thành 100 phần bằng nhau
 Hàm Excel: QUARTILE.EXC / QUARTILE.INC, PERCENTILE.EXC / PERCENTILE.INC
-Nhóm đo độ phân tán (Dispersion)
+Nhóm đo độ phân tán (Dispersion)  
 Khoảng biến thiên (Range) — giá trị lớn nhất trừ giá trị nhỏ nhất; đơn giản nhất nhưng dễ bị ảnh hưởng bởi ngoại lai
 Phương sai (Variance) — trung bình bình phương độ lệch so với trung bình; đơn vị là bình phương đơn vị gốc
 Phương sai tổng thể: chia cho N
