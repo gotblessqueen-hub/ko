@@ -9,7 +9,15 @@ Bài 7 — Kiểm định tham số
 Bài 8 — Kiểm định phi tham số    
 Bài 9 — Phân tích phương sai    
 Từ điển thuật ngữ Anh - Việt
-
+PHẦN 1: DẤU HIỆU NHẬN BIẾT CÁC DẠNG BÀI TẬP         
+Dạng đếm số kết cục, xác suất cổ điển:       
+Đề bài thường có chữ "chọn ngẫu nhiên", "bốc ngẫu nhiên", "sắp xếp", "đồng chất đồng đều" từ một tập hợp cho trước. Dùng tổ hợp ($C$), chỉnh hợp ($A$), hoán vị ($P$).       
+Dạng Xác suất đầy đủ & Bayes: Đề bài thường chia làm 2 giai đoạn. Giai đoạn 1 có nhiều trường hợp (ví dụ: bốc từ 3 hộp khác nhau, có 3 máy sản xuất). Giai đoạn 2 là kết quả chung (ví dụ: bốc được phế phẩm). Nếu đề hỏi xác suất ngược lại kiểu "Biết đã bốc được phế phẩm, tính xác suất nó thuộc máy 1", đó chắc chắn là công thức Bayes.        
+Dạng Phân phối Nhị thức (Binomial): Đề bài có một phép thử được lặp lại chính xác $n$ lần độc lập, xác suất thành công $p$ không đổi qua các lần thử. Câu hỏi thường hỏi "Tính xác suất để có đúng $x$ lần thành công".          
+Dạng Phân phối Poisson: Đề cho số lượng mẫu $n$ cực kì lớn, xác suất $p$ cực kì nhỏ (hiếm gặp), hoặc cho sẵn số sự kiện trung bình $\lambda$ xảy ra trong một khoảng thời gian/không gian nhất định (ví dụ: số cuộc gọi tới tổng đài trong 1 phút, số tai nạn giao thông).                
+Dạng Phân phối Chuẩn (Normal): Đề cho rõ "tuân theo luật phân phối Chuẩn", hoặc cho các thông số $\mu$ (trung bình) và $\sigma^2$ (phương sai). Luôn cần dùng thao tác chuẩn hóa $Z = (X - \mu)/\sigma$ và tra bảng hàm Laplace $\Phi(z)$.  
+Dạng Ước lượng khoảng: Đề bài chứa các từ khóa: "Với độ tin cậy $1-\alpha$", "Hãy ước lượng...", "Tìm khoảng tin cậy...", "Độ chính xác là...", "Cần điều tra thêm tối thiểu bao nhiêu...". Cần phân biệt rõ là ước lượng cho Trung bình (Mean), Phương sai (Variance) hay Tỉ lệ (Proportion).         
+Dạng Kiểm định giả thuyết: Đề bài chứa từ khóa: "Với mức ý nghĩa $\alpha$", "Có ý kiến cho rằng...", "Hãy kiểm định...", "Có thể nói rằng... hay không?". Nếu hỏi chung chung (bằng/khác) là kiểm định 2 phía. Nếu chứa từ "nhiều hơn", "cao hơn", "vượt quá" là kiểm định phía phải. Nếu chứa từ "ít hơn", "thấp hơn" là kiểm định phía trái.      
 
 Bài 1 — Thống kê mô tả       
 1.1 Các khái niệm cơ bản       
