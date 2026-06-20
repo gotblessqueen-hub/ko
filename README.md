@@ -243,7 +243,7 @@
 | 233 | Đặc điểm nào dưới đây là đặc điểm riêng có của quy phạm pháp luật so với các quy phạm xã hội khác? | tính nhà nước |
 | 234 | Đặc điểm nào sau đây làm rõ sự khác nhau giữa quy phạm xã hội và quy phạm pháp luật? | Do Nhà nước đặt ra và được đảm bảo thực hiện bằng các biện pháp cưỡng chế nhà nước |
 | 235 | Đối tượng nào bị áp dụng trách nhiệm hành chính ? | Các cá nhân, tổ chức có năng lực trách nhiệm hành chính |
-| 236 | Đối tượng điều chỉnh của ngành luật dân sự là? | Quan hệ pháp luật giữa các chủ thể liên quan đến việc xác lập quyền sở hữu, Quan hệ pháp luật giữa các chủ thể liên quan đến tài sản, Quan hệ pháp luật giữa các chủ thể liên quan đến quyền nhân thân |
+| 236 | Đối tượng điều chỉnh của ngành luật dân sự là? | Quan hệ pháp luật giữa các chủ thể liên quan đến việc xác lập quyền sở hữu, Quan hệ pháp luật giữa các chủ thể liên quan đến tài sản, Quan hệ pháp luật giữa các chủ thể liên quan đến quyền nhân thân,pháp nhân cá nhân, nhà nước trong tùy trường hợp|
 | 237 | Đối tượng điều chỉnh của ngành luật hành chính: | Những Quan hệ xã hội mang tính chất chấp hành và điều hành phát sinh trong hoạt động xây dựng, tổ chức công tác nội bộ của các Cơ quan Nhà nước khác,  Những Quan hệ xã hội mang tính chất chấp hành và điều hành phát sinh trong hoạt động của các Cơ quan Nhà nước khác hoặc các Tổ chức xã hội khi được nhà nước trao quyền thực hiện chức năng quản lý nhà nước, Những Quan hệ xã hội mang tính chất chấp hành và điều hành phát sinh trong hoạt động của các cơ quan quản lý nhà nước |
 | 238 | đối với mỗi vi phạm hành chính áp dụng bao nhiêu hình thức xử phạt | một |
 | 239 | Độ tuổi nào thì phải gánh chịu trách nhiệm hành chính do lỗi vô ý? | từ đủ 16 tuổi trở lên |
@@ -297,3 +297,634 @@
 | 39 | Người của pháp nhân đang thực hiện công việc do pháp nhân giao cho thì gây ra thiệt hại, trong trường hợp này, người đó phải trực tiếp bồi thường cho người bị thiệt hại hay không? | Không, vì pháp nhân sẽ bồi thường thiệt hại do người của mình gây ra |
 | 40 | Trong các trường hợp sau, đâu không phải là trường hợp loại trừ trách nhiệm hình sự? | Không tố giác tội phạm |
 | 41 | Tù có thời hạn là buộc người bị kết án phải chấp hành hình phạt tại cơ sở giam giữ trong một thời hạn nhất định. Tù có thời hạn đối với người phạm một tội có? | a. mức tối thiểu là 03 tháng và mức tối đa là 20 năm |
+Trường hợp nào phải áp dụng thủ tục xử phạt CÓ LẬP BIÊN BẢN? trang 96
+1. 
+Trong lĩnh vực Hình sự (Trách nhiệm hình sự)
+Dưới 14 tuổi: Hoàn toàn không phải chịu trách nhiệm hình sự.
+
+Từ đủ 14 tuổi đến dưới 16 tuổi: Chỉ phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng hoặc tội phạm đặc biệt nghiêm trọng (chỉ giới hạn trong 28 tội danh cụ thể như giết người, hiếp dâm, cướp tài sản...).
+
+Từ đủ 16 tuổi đến dưới 18 tuổi: Phải chịu trách nhiệm hình sự về mọi tội phạm (trừ những tội mà Bộ luật Hình sự có quy định khác). Tuy nhiên, nhóm tuổi này được áp dụng các chính sách khoan hồng, giảm nhẹ hình phạt (như trường hợp của An ở câu hỏi trước).
+
+Từ đủ 18 tuổi trở lên: Là người trưởng thành, chịu trách nhiệm hình sự đầy đủ.
+
+2. Trong lĩnh vực Hành chính (Xử phạt vi phạm hành chính)
+Dưới 14 tuổi: Không bị xử phạt vi phạm hành chính.
+
+Từ đủ 14 tuổi đến dưới 16 tuổi: Bị xử phạt vi phạm hành chính về vi phạm hành chính do cố ý (lưu ý: nhóm này chưa bị áp dụng hình thức phạt tiền, thường chỉ áp dụng hình thức Cảnh cáo).
+
+Từ đủ 16 tuổi trở lên: Bị xử phạt vi phạm hành chính về mọi vi phạm hành chính.
+
+3. Trong lĩnh vực Dân sự (Năng lực hành vi & Bồi thường thiệt hại)
+Dưới 6 tuổi: Người không có năng lực hành vi dân sự. Mọi giao dịch do người đại diện theo pháp luật xác lập, thực hiện.
+
+Từ đủ 6 tuổi đến dưới 15 tuổi: Khi xác lập, thực hiện giao dịch dân sự phải được người đại diện theo pháp luật đồng ý (trừ các giao dịch phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi). Nếu gây thiệt hại thì cha, mẹ phải bồi thường toàn bộ.
+
+Từ đủ 15 tuổi đến dưới 18 tuổi: Có thể tự mình xác lập, thực hiện giao dịch dân sự (trừ các giao dịch liên quan đến bất động sản, động sản phải đăng ký...). Nếu gây thiệt hại, phải tự bồi thường bằng tài sản của mình; nếu không đủ thì cha, mẹ bồi thường phần còn thiếu.
+
+Từ đủ 18 tuổi trở lên: Có năng lực hành vi dân sự đầy đủ, tự chịu trách nhiệm toàn bộ về các giao dịch và thiệt hại do mình gây ra.
+Thẩm quyền ban hành văn bản của các cơ quan Nhà nước và Đảng
+Để trả lời cho câu hỏi phụ của bạn về việc "trong nhà nước những chức gì sẽ ban hành gì cũng như đảng", dưới đây là hệ thống tóm tắt thẩm quyền ban hành các loại văn bản chính:
+
+1. Hệ thống cơ quan Nhà nước (Theo Luật Ban hành văn bản quy phạm pháp luật)
+Mỗi cơ quan/chức danh nhà nước chỉ được ban hành các loại văn bản quy phạm pháp luật theo đúng thẩm quyền được giao:
+
+Quốc hội (Cơ quan quyền lực cao nhất): Ban hành Hiến pháp, Bộ luật, Luật, Nghị quyết.
+
+Ủy ban Thường vụ Quốc hội: Ban hành Pháp lệnh, Nghị quyết.
+
+Chính phủ (Cơ quan hành chính cao nhất): Ban hành Nghị định, Nghị quyết (Nghị quyết liên tịch).
+
+Thủ tướng Chính phủ: Ban hành Quyết định.
+
+Bộ trưởng, Thủ trưởng cơ quan ngang Bộ: Ban hành Thông tư.
+
+Hội đồng nhân dân (HĐND) các cấp (Tỉnh, Huyện, Xã): Ban hành Nghị quyết.
+
+Ủy ban nhân dân (UBND) các cấp (Tỉnh, Huyện, Xã): Ban hành Quyết định.
+
+(Ngoài ra, Tổng Kiểm toán Nhà nước, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao ban hành Thông tư).
+
+2. Hệ thống tổ chức Đảng (Theo Quy định 66-QĐ/TW năm 2017)
+Đảng Cộng sản Việt Nam lãnh đạo bằng các văn bản của Đảng. Tùy vào tính chất, các cấp ủy và tổ chức Đảng (Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư, cấp ủy địa phương) sẽ ban hành các hình thức chủ yếu sau:
+
+Nghị quyết: Văn bản ghi lại các quyết định được thông qua tại Đại hội Đảng hoặc các hội nghị cấp ủy (VD: Nghị quyết Đại hội Đảng toàn quốc, Nghị quyết của Ban Chấp hành Trung ương).
+
+Chỉ thị: Văn bản dùng để truyền đạt các chủ trương, biện pháp quản lý, chỉ đạo thực hiện một nhiệm vụ cụ thể và yêu cầu cấp dưới chấp hành nghiêm ngặt.
+
+Quy định / Quy chế: Quy định các nguyên tắc, tiêu chuẩn, chế độ, lề lối làm việc của tổ chức đảng và đảng viên (VD: Quy định về những điều đảng viên không được làm).
+
+Quyết định: Dùng để ban hành hoặc bãi bỏ các quy chế, quy định; hoặc quyết định các vấn đề cụ thể về nhân sự, tổ chức (VD: Quyết định kỷ luật đảng viên, Quyết định phân công công tác).
+
+Kết luận: Phản ánh ý kiến chính thức, quan điểm chỉ đạo của cấp ủy hoặc ban thường vụ cấp ủy sau khi thảo luận về một vấn đề nhất định.
+
+Hướng dẫn: Dùng để giải thích, chỉ dẫn cụ thể việc thực hiện các nghị quyết, chỉ thị, quy định của Đảng.
+Chương II
+
+THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH VÀ ÁP DỤNG BIỆN PHÁP KHẮC PHỤC HẬU QUẢ
+
+Điều 38. Thẩm quyền của Chủ tịch Ủy ban nhân dân
+
+1. Chủ tịch Uỷ ban nhân dân cấp xã có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 10% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 5.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức xử phạt tiền được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, b, c và đ khoản 1 Điều 28 của Luật này.
+
+2. Chủ tịch Uỷ ban nhân dân cấp huyện có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 50.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, b, c, đ, e, h, i và k khoản 1 Điều 28 của Luật này.
+
+3. Chủ tịch Uỷ ban nhân dân cấp tỉnh có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 1 Điều 28 của Luật này.
+
+Điều 39. Thẩm quyền của Công an nhân dân
+
+1. Chiến sĩ Công an nhân dân đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 1% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 500.000 đồng.
+
+2. Trạm trưởng, Đội trưởng của người được quy định tại khoản 1 Điều này có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 3% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 1.500.000 đồng.
+
+3. Trưởng Công an cấp xã, Trưởng đồn Công an, Trạm trưởng Trạm Công an cửa khẩu, khu chế xuất có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 5% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 2.500.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c và đ khoản 1 Điều 28 của Luật này.
+
+4. Trưởng Công an cấp huyện; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông đường bộ, đường sắt, Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát đường thủy; Trưởng phòng Công an cấp tỉnh gồm Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát trật tự, Trưởng phòng Cảnh sát phản ứng nhanh, Trưởng phòng Cảnh sát điều tra tội phạm về trật tự xã hội, Trưởng phòng Cảnh sát điều tra tội phạm về trật tự quản lý kinh tế và chức vụ, Trưởng phòng Cảnh sát điều tra tội phạm về ma tuý, Trưởng phòng Cảnh sát giao thông đường bộ, đường sắt, Trưởng phòng Cảnh sát đường thủy, Trưởng phòng Cảnh sát bảo vệ và cơ động, Trưởng phòng Cảnh sát thi hành án hình sự và hỗ trợ tư pháp, Trưởng phòng Cảnh sát phòng, chống tội phạm về môi trường, Trưởng phòng Cảnh sát phòng cháy, chữa cháy và cứu hộ, cứu nạn, Trưởng phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn trên sông, Trưởng phòng Quản lý xuất nhập cảnh, Trưởng phòng An ninh chính trị nội bộ, Trưởng phòng An ninh kinh tế, Trưởng phòng An ninh văn hóa, tư tưởng, Trưởng phòng An ninh thông tin; Trưởng phòng Cảnh sát phòng cháy, chữa cháy các quận, huyện thuộc Sở Cảnh sát phòng cháy và chữa cháy; Thủ trưởng đơn vị Cảnh sát cơ động từ cấp đại đội trở lên, có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 20% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 25.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, đ và k khoản 1 Điều 28 của Luật này.
+
+5. Giám đốc Công an cấp tỉnh, Giám đốc Sở Cảnh sát phòng cháy, chữa cháy có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 50.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+đ) Giám đốc Công an cấp tỉnh quyết định áp dụng hình thức xử phạt trục xuất;
+
+e) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, đ, i và k khoản 1 Điều 28 của Luật này.
+
+6. Cục trưởng Cục An ninh chính trị nội bộ, Cục trưởng Cục An ninh kinh tế, Cục trưởng Cục An ninh văn hóa, tư tưởng, Cục trưởng Cục An ninh thông tin, Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội, Cục trưởng Cục Cảnh sát điều tra tội phạm về trật tự xã hội, Cục trưởng Cục Cảnh sát điều tra tội phạm về trật tự quản lý kinh tế và chức vụ, Cục trưởng Cục Cảnh sát điều tra tội phạm về ma tuý, Cục trưởng Cục Cảnh sát giao thông đường bộ, đường sắt, Cục trưởng Cục Cảnh sát đường thủy, Cục trưởng Cục Cảnh sát phòng cháy, chữa cháy và cứu hộ, cứu nạn, Cục trưởng Cục Cảnh sát bảo vệ, Cục trưởng Cục Theo dõi thi hành án hình sự và hỗ trợ tư pháp, Cục trưởng Cục Cảnh sát phòng chống tội phạm về môi trường, Cục trưởng Cục Cảnh sát phòng, chống tội phạm sử dụng công nghệ cao có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, đ, i và k khoản 1 Điều 28 của Luật này.
+
+7. Cục trưởng Cục Quản lý xuất nhập cảnh có thẩm quyền xử phạt theo quy định tại khoản 6 Điều này và có quyền quyết định áp dụng hình thức xử phạt trục xuất.
+
+Điều 40. Thẩm quyền của Bộ đội biên phòng
+
+1. Chiến sĩ Bộ đội biên phòng đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 1% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 500.000 đồng.
+
+2. Trạm trưởng, Đội trưởng của người được quy định tại khoản 1 Điều này có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 5% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 2.500.000 đồng.Bổ sung
+
+3. Đồn trưởng Đồn biên phòng, Hải đội trưởng Hải đội biên phòng, Chỉ huy trưởng Tiểu khu biên phòng, Chỉ huy trưởng biên phòng Cửa khẩu cảng có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 20% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 25.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, đ và k khoản 1 Điều 28 của Luật này.Bổ sung
+
+4. Chỉ huy trưởng Bộ đội biên phòng cấp tỉnh, Chỉ huy trưởng Hải đoàn biên phòng trực thuộc Bộ Tư lệnh Bộ đội biên phòng có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, đ, i và k khoản 1 Điều 28 của Luật này.
+
+Điều 41. Thẩm quyền của Cảnh sát biển
+
+1. Cảnh sát viên Cảnh sát biển đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 2% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 1.500.000 đồng.
+
+2. Tổ trưởng Tổ nghiệp vụ Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 5% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 5.000.000 đồng.
+
+3. Đội trưởng Đội nghiệp vụ Cảnh sát biển, Trạm trưởng Trạm Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 10% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 10.000.000 đồng;
+
+c) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c và đ khoản 1 Điều 28 của Luật này.
+
+4. Hải đội trưởng Hải đội Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 20% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 25.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, d, đ và k khoản 1 Điều 28 của Luật này.
+
+5. Hải đoàn trưởng Hải đoàn Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 30% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 50.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, d, đ và k khoản 1 Điều 28 của Luật này.
+
+6. Chỉ huy trưởng Vùng Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 100.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, d, đ và k khoản 1 Điều 28 của Luật này.
+
+7. Cục trưởng Cục Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, b, c, d, đ và k khoản 1 Điều 28 của Luật này.
+
+Điều 42. Thẩm quyền của Hải quan
+
+1. Công chức Hải quan đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng.
+
+2. Đội trưởng thuộc Chi cục Hải quan, Đội trưởng thuộc Chi cục kiểm tra sau thông quan có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 5.000.000 đồng.
+
+3. Chi cục trưởng Chi cục Hải quan, Chi cục trưởng Chi cục kiểm tra sau thông quan, Đội trưởng Đội kiểm soát thuộc Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương, Đội trưởng Đội kiểm soát chống buôn lậu, Đội trưởng Đội thủ tục Hải quan, Hải đội trưởng Hải đội kiểm soát trên biển và Đội trưởng Đội kiểm soát bảo vệ quyền sở hữu trí tuệ thuộc Cục điều tra chống buôn lậu Tổng cục Hải quan có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 25.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm d, đ, g, i và k khoản 1 Điều 28 của Luật này.
+
+4. Cục trưởng Cục điều tra chống buôn lậu, Cục trưởng Cục kiểm tra sau thông quan thuộc Tổng cục Hải quan, Cục trưởng Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm d, đ, g, i và k khoản 1 Điều 28 của Luật này.
+
+5. Tổng cục trưởng Tổng cục Hải quan có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm d, đ, g, i và k khoản 1 Điều 28 của Luật này.
+
+Điều 43. Thẩm quyền của Kiểm lâm
+
+1. Kiểm lâm viên đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng.
+
+2. Trạm trưởng Trạm Kiểm lâm có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 10.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này.
+
+3. Hạt trưởng Hạt Kiểm lâm, Đội trưởng Đội Kiểm lâm cơ động và phòng cháy, chữa cháy rừng có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 25.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, đ, i và k khoản 1 Điều 28 của Luật này.
+
+4. Chi cục trưởng Chi cục Kiểm lâm, Đội trưởng Đội Kiểm lâm đặc nhiệm thuộc Cục Kiểm lâm có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, b, c, đ, i và k khoản 1 Điều 28 của Luật này.
+
+5. Cục trưởng Cục Kiểm lâm có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực quản lý rừng, lâm sản quy định tại Điều 24 của Luật này;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+d) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, b, c, đ, i và k khoản 1 Điều 28 của Luật này.Bổ sung
+
+Điều 44. Thẩm quyền của cơ quan Thuế
+
+1. Công chức Thuế đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng.
+
+2. Đội trưởng Đội Thuế có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 2.500.000 đồng.
+
+3. Chi cục trưởng Chi cục Thuế có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 25.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+4. Cục trưởng Cục Thuế có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 70.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+5. Tổng cục trưởng Tổng cục Thuế có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực thuế quy định tại Điều 24 của Luật này;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+Điều 45. Thẩm quyền của Quản lý thị trường
+
+1. Kiểm soát viên thị trường đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng.
+
+2. Đội trưởng Đội Quản lý thị trường có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 25.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, đ, e, g, h, i và k khoản 1 Điều 28 của Luật này.
+
+3. Chi Cục trưởng Chi cục Quản lý thị trường thuộc Sở Công thương, Trưởng phòng chống buôn lậu, Trưởng phòng chống hàng giả, Trưởng phòng kiểm soát chất lượng hàng hóa thuộc Cục Quản lý thị trường có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, d, đ, e, g, h, i và k khoản 1 Điều 28 của Luật này.
+
+4. Cục trưởng Cục Quản lý thị trường có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+d) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c, d, đ, e, g, h, i và k khoản 1 Điều 28 của Luật này.Bổ sung
+
+Điều 46. Thẩm quyền của Thanh tra
+
+1. Thanh tra viên, người được giao thực hiện nhiệm vụ thanh tra chuyên ngành đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 1% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 500.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, c và đ khoản 1 Điều 28 của Luật này.
+
+2. Chánh Thanh tra sở, Chánh Thanh tra Cục Hàng không, Chánh Thanh tra Cục Hàng hải, Chánh thanh tra Cục An toàn bức xạ và hạt nhân, Chánh thanh tra Ủy ban chứng khoán Nhà nước; Chi cục trưởng Chi cục An toàn vệ sinh thực phẩm, Chi cục trưởng Chi cục Dân số - Kế hoạch hóa gia đình thuộc Sở Y tế, Chi cục trưởng Chi cục về bảo vệ thực vật, thú y, thủy sản, quản lý chất lượng nông lâm sản và thủy sản, thủy lợi, đê điều, lâm nghiệp, phát triển nông thôn thuộc Sở Nông nghiệp và Phát triển nông thôn, Giám đốc Trung tâm Tần số khu vực và các chức danh tương đương được Chính phủ giao thực hiện chức năng thanh tra chuyên ngành có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 50.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 1 Điều 28 của Luật này.
+
+3. Cục trưởng Cục Dự trữ Nhà nước khu vực, Cục trưởng Cục Thống kê, Cục trưởng Cục kiểm soát ô nhiễm, Giám đốc Kho bạc Nhà nước tỉnh, thành phố trực thuộc trung ương và các chức danh tương đương được Chính phủ giao thực hiện chức năng thanh tra chuyên ngành có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 70% mức tiền phạt tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này nhưng không quá 250.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 1 Điều 28 của Luật này.
+
+4. Chánh Thanh tra bộ, cơ quan ngang bộ, Tổng cục trưởng Tổng cục Đường bộ Việt Nam, Tổng cục trưởng Tổng cục Thống kê, Tổng cục trưởng Tổng cục Tiêu chuẩn đo lường chất lượng, Tổng cục trưởng Tổng cục Dạy nghề, Tổng cục trưởng Tổng cục Thủy lợi, Tổng cục trưởng Tổng cục Lâm nghiệp, Tổng cục trưởng Tổng cục Thủy sản, Tổng cục trưởng Tổng cục Địa chất và Khoáng sản, Tổng cục trưởng Tổng cục Môi trường, Tổng cục trưởng Tổng cục Quản lý đất đai, Giám đốc Kho bạc Nhà nước, Chủ tịch Ủy ban chứng khoán Nhà nước, Tổng cục trưởng Tổng cục Dự trữ Nhà nước, Tổng cục trưởng Tổng cục Dân số - Kế hoạch hóa gia đình, Chủ nhiệm Ủy ban Nhà nước về người Việt Nam ở nước ngoài, Trưởng Ban Thi đua - Khen thưởng Trung ương, Trưởng Ban Tôn giáo Chính phủ, Cục trưởng Cục Hóa chất, Cục trưởng Cục Kỹ thuật an toàn và môi trường công nghiệp, Cục trưởng Cục Đường sắt Việt Nam, Cục trưởng Cục Đường thủy nội địa Việt Nam, Cục trưởng Cục Hàng hải Việt Nam, Cục trưởng Cục Hàng không Việt Nam, Cục trưởng Cục An toàn bức xạ và hạt nhân, Cục trưởng Cục Thú y, Cục trưởng Cục Bảo vệ thực vật, Cục trưởng Cục Trồng trọt, Cục trưởng Cục Chăn nuôi, Cục trưởng Cục Quản lý chất lượng nông lâm sản và thủy sản, Cục trưởng Cục Kinh tế hợp tác và phát triển nông thôn, Cục trưởng Cục Chế biến, thương mại nông lâm thủy sản và nghề muối, Cục trưởng Cục Quản lý, giám sát bảo hiểm, Cục trưởng Cục Tần số vô tuyến điện, Cục trưởng Cục Viễn thông, Cục trưởng Cục Quản lý phát thanh, truyền hình và thông tin điện tử, Cục trưởng Cục Báo chí, Cục trưởng Cục Xuất bản, Cục trưởng Cục Quản lý dược, Cục trưởng Cục Quản lý khám, chữa bệnh, Cục trưởng Cục Quản lý môi trường y tế, Cục trưởng Cục Y tế dự phòng, Cục trưởng Cục An toàn vệ sinh thực phẩm và các chức danh tương đương được Chính phủ giao thực hiện chức năng thanh tra chuyên ngành có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 1 Điều 28 của Luật này.
+
+5. Trưởng đoàn thanh tra chuyên ngành cấp bộ có thẩm quyền xử phạt theo quy định tại khoản 3 Điều này.
+
+Trưởng đoàn thanh tra chuyên ngành cấp sở, trưởng đoàn thanh tra chuyên ngành của cơ quan quản lý nhà nước được giao thực hiện chức năng thanh tra chuyên ngành có thẩm quyền xử phạt theo quy định tại khoản 2 Điều này.
+
+Điều 47. Thẩm quyền của Cảng vụ hàng hải, Cảng vụ hàng không, Cảng vụ đường thuỷ nội địa
+
+1. Trưởng đại diện Cảng vụ hàng hải, Trưởng đại diện Cảng vụ hàng không, Trưởng đại diện Cảng vụ đường thủy nội địa có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 10.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này.
+
+2. Giám đốc Cảng vụ hàng hải, Giám đốc Cảng vụ hàng không, Giám đốc Cảng vụ đường thuỷ nội địa thuộc Cục Đường thủy nội địa Việt Nam có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 25.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, b, c, đ, i và k khoản 1 Điều 28 của Luật này.
+
+Điều 48. Thẩm quyền của Toà án nhân dân
+
+1. Thẩm phán chủ tọa phiên toà có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 1.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này.
+
+2. Thẩm phán được phân công giải quyết vụ việc phá sản có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 5.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+3. Chánh án Tòa án nhân dân cấp huyện, Chánh tòa chuyên trách Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự khu vực có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 7.500.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này.
+
+4. Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự quân khu và tương đương, Chánh tòa Phúc thẩm Tòa án nhân dân tối cao, Chánh tòa chuyên trách Tòa án nhân dân tối cao có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+c) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.Bổ sung
+
+Điều 49. Thẩm quyền của cơ quan thi hành án dân sự
+
+1. Chấp hành viên thi hành án dân sự đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng.
+
+2. Chi Cục trưởng Chi cục Thi hành án dân sự có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 2.500.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+3. Chấp hành viên thi hành án dân sự là Tổ trưởng tổ quản lý, thanh lý tài sản của vụ việc phá sản có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 5.000.000 đồng;
+
+c) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+4. Cục trưởng Cục Thi hành án dân sự, Trưởng phòng Phòng Thi hành án cấp quân khu có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 20.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá mức tiền phạt được quy định tại điểm b khoản này;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+5. Tổng cục trưởng Tổng cục Thi hành án dân sự có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến mức tối đa đối với lĩnh vực thi hành án dân sự quy định tại Điều 24 của Luật này;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+Điều 50. Thẩm quyền của Cục Quản lý lao động ngoài nước
+
+Cục trưởng Cục Quản lý lao động ngoài nước có quyền:
+
+1. Phạt cảnh cáo;
+
+2. Phạt tiền đến mức tối đa đối với lĩnh vực quản lý lao động ngoài nước quy định tại Điều 24 của Luật này;
+
+3. Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+4. Tước quyền sử dụng giấy phép có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+5. Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+
+Điều 51. Thẩm quyền của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài
+
+Người đứng đầu cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài có quyền:
+
+1. Phạt cảnh cáo;
+
+2. Phạt tiền đến mức tối đa đối với lĩnh vực tương ứng quy định tại Điều 24 của Luật này;
+
+3. Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+4. Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
