@@ -928,3 +928,66 @@ Người đứng đầu cơ quan đại diện ngoại giao, cơ quan lãnh sự
 3. Tịch thu tang vật, phương tiện vi phạm hành chính;
 
 4. Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này.
+PHẦN 1: HỆ THỐNG VĂN BẢN VÀ CƠ QUAN BAN HÀNH
+1. Thẩm quyền ban hành văn bản quy phạm pháp luật (VBQPPL)
+ Quốc hội: Hiến pháp, Luật, Bộ luật, Nghị quyết.
+ Ủy ban Thường vụ Quốc hội (UBTVQH): Pháp lệnh, Nghị quyết.
+ Chủ tịch nước: Lệnh, Quyết định.
+ Chính phủ: Nghị định.
+ Thủ tướng Chính phủ: Quyết định, Chỉ thị.
+ Hội đồng Thẩm phán Tòa án Nhân dân Tối cao (TANDTC): Nghị quyết.
+ Chánh án TANDTC, Viện trưởng Viện Kiểm sát Nhân dân Tối cao (VKSNDTC): Thông tư.
+ Nghị quyết liên tịch: Ban hành giữa UBTVQH, Chính phủ và Cơ quan Trung ương của các tổ chức Chính trị - Xã hội.
+ Thông tư liên tịch: Ban hành giữa Chánh án TANDTC và Viện trưởng VKSNDTC.
+ Hội đồng Nhân dân (HĐND) các cấp: Nghị quyết.
+ Ủy ban Nhân dân (UBND) các cấp: Quyết định, Chỉ thị.
+2. Phân biệt các loại văn bản
+ Văn bản Quy phạm pháp luật (VBQPPL): Chứa đựng các quy tắc xử sự chung, được áp dụng cho những nhóm đối tượng chung và được áp dụng nhiều lần, lặp đi lặp lại trong đời sống.
+ Văn bản Áp dụng pháp luật: Chứa đựng các quy tắc xử sự cụ thể, được áp dụng cho một hoặc một số đối tượng cụ thể và thường chỉ áp dụng 1 lần.
+3. Phân biệt các cơ quan hành pháp
+ Cơ quan của Chính phủ (Các Bộ, cơ quan ngang Bộ): Do Chính phủ đề nghị thành lập, người đứng đầu được bổ nhiệm là Thành viên Chính phủ (Ví dụ: Bộ trưởng).
+ Cơ quan thuộc Chính phủ: Do Chính phủ thành lập, Thủ tướng Chính phủ bổ nhiệm người đứng đầu, người đứng đầu không phải là Thành viên Chính phủ. Chức năng chính là quản lý nhà nước về các lĩnh vực chuyên môn (Ví dụ: Đài Truyền hình Việt Nam, Bảo hiểm Xã hội...).
+ Lưu ý thêm: Bộ Chính trị là cơ quan của Đảng Cộng sản Việt Nam (không thuộc bộ máy cơ quan Nhà nước).
+4. Phân chia quyền lực Nhà nước
+ Lập pháp: Quốc hội (Cơ quan quyền lực nhà nước cao nhất, làm luật).
+ Hành pháp: Chính phủ (Cơ quan hành chính nhà nước cao nhất, thi hành luật).
+PHẦN 2: LÝ LUẬN VỀ PHÁP LUẬT VÀ VI PHẠM PHÁP LUẬT
+1. Nguồn của pháp luật
+ Tập quán pháp: Là hình thức pháp luật do Nhà nước thừa nhận những phong tục, tập quán có sẵn trong xã hội và nâng chúng lên thành các quy tắc xử sự mang tính bắt buộc chung (thành pháp luật).
+ Tiền lệ pháp (Án lệ): Là việc Nhà nước thừa nhận những bản án, quyết định giải quyết vụ việc của Tòa án làm khuôn mẫu để áp dụng giải quyết những vụ việc có tính chất tương tự sau này.
+2. Cấu trúc của một Quy phạm pháp luật (QPPL)
+Gồm 3 bộ phận:
+ Giả định: Nêu lên điều kiện, hoàn cảnh, trường hợp mà chủ thể có thể gặp phải trong thực tế.
+ Quy định: Nêu lên cách thức xử sự mà chủ thể phải tuân theo. Có các dạng:
+ Mệnh lệnh: Bắt buộc phải làm hoặc không được làm.
+ Tùy nghi: Được phép lựa chọn một trong các cách xử sự.
+ Giao quyền: Xác định quyền hạn cho một chủ thể nhất định.
+ Chế tài: Nêu lên những hậu quả bất lợi mà cơ quan nhà nước sẽ áp dụng đối với chủ thể không thực hiện đúng bộ phận "Quy định".
+3. Các yếu tố cấu thành Vi phạm pháp luật / Quan hệ pháp luật
+ Chủ thể: Các bên tham gia vào quan hệ pháp luật, có thể là cá nhân hoặc tổ chức (Pháp nhân: là một tổ chức có tư cách pháp lý độc lập).
+ Khách thể: Là những giá trị, đối tượng mà các bên tham gia quan hệ pháp luật hướng đến và tác động vào.
+ Mặt khách quan: Là những biểu hiện ra bên ngoài của hành vi vi phạm pháp luật (hành vi, hậu quả, mối quan hệ nhân quả...).
+ Mặt chủ quan: Là những biểu hiện tâm lý bên trong của chủ thể vi phạm pháp luật, bao gồm: Lỗi (cố ý hoặc vô ý), Động cơ, Mục đích.
+PHẦN 3: CÁC CHẾ TÀI VÀ HÌNH PHẠT
+1. Kỷ luật Cán bộ, Công chức
+(Lưu ý: Theo ghi chép trong vở)
+ Cán bộ (4 hình thức): Bãi nhiệm, cách chức, giáng chức, hạ lương.
+ Công chức không giữ chức vụ quản lý: Bãi nhiệm, cách chức, cảnh cáo, khiển trách.
+ Công chức có giữ chức vụ quản lý: Hạ lương.
+2. Phân loại Tội phạm (Theo Bộ luật Hình sự)
+ Tội phạm Ít nghiêm trọng: Mức cao nhất của khung hình phạt <= 3 năm tù.
+ Tội phạm Nghiêm trọng: Mức cao nhất của khung hình phạt <= 7 năm tù.
+ Tội phạm Rất nghiêm trọng: Mức cao nhất của khung hình phạt <= 15 năm tù.
+ Tội phạm Đặc biệt nghiêm trọng: Mức cao nhất của khung hình phạt > 15 năm tù, tù chung thân, hoặc tử hình.
+3. Trách nhiệm hình sự theo độ tuổi
+ Người từ đủ 14 tuổi đến dưới 16 tuổi: Mức hình phạt tối đa <= 1/2 mức án quy định đối với người trưởng thành (áp dụng cho hình phạt tù có thời hạn).
+ Người từ đủ 16 tuổi đến dưới 18 tuổi: Mức hình phạt tối đa <= 3/4 mức án quy định (không quá 18 năm tù).
+ Người dưới 18 tuổi nói chung: Không áp dụng án tử hình, không áp dụng tù chung thân (nếu điều luật quy định tử hình/chung thân thì cao nhất chỉ áp dụng tù có thời hạn).
+4. Các loại Hình phạt (Theo Bộ luật Hình sự)
+ Hình phạt chính: Cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn / chung thân / tử hình.
+ Hình phạt bổ sung: Cấm đảm nhiệm chức vụ / cấm hành nghề, cấm cư trú, quản chế, tước một số quyền công dân, tịch thu tài sản, phạt tiền (khi không áp dụng là hình phạt chính), trục xuất (khi không áp dụng là hình phạt chính).
+PHẦN 4: GIAO DỊCH BẢO ĐẢM TRONG DÂN SỰ
+Phân biệt 3 biện pháp bảo đảm thực hiện nghĩa vụ dân sự cơ bản:
+ Cầm cố: Một bên giao tài sản thuộc sở hữu của mình cho bên kia để bảo đảm thực hiện nghĩa vụ.
+ Thế chấp: Một bên dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ nhưng không giao tài sản cho bên kia (bên thế chấp vẫn giữ tài sản).
+ Cầm giữ: Bên có quyền đang nắm giữ hợp pháp tài sản của bên có nghĩa vụ, nhằm mục đích bảo đảm thực hiện nghĩa vụ khi nghĩa vụ đó không được thực hiện.
