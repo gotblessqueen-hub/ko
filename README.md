@@ -96,12 +96,12 @@ g(t) = [ GDP_real(t) / GDP_real(t-1) - 1 ] * 100  (%)
 GNP = GDP + NFA
       (NFA = Thu nhap nguoi Viet o nuoc ngoai - Thu nhap nguoi nuoc ngoai o VN)
 
-NNP = GNP - Dep                         (Dep: Khau hao)
+NNP = GNP - Dep      (sp ròng quốc giá)      (Dep: Khau hao)
 
-NI  = NNP - Ti - Sai so thong ke
+NI  = NNP - Ti - Sai so thong ke (thu nhập quốc dân)
       (Ti: Thue gian thu rong = Thue gian thu - Tro cap)
 
-PI  = NI - OI + Chuyen giao thu nhap tu CP cho ho gia dinh
+PI  = NI - OI + Chuyen giao thu nhap tu CP cho ho gia dinh (thu nhập cá nhân)
       (OI = Loi nhuan giu lai + Thue TNDN + BHXH + Chuyen giao tu CP cho to chuc)
 
 Yd  = PI - Thue va cac dong gop khac
