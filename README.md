@@ -544,3 +544,209 @@ Vi du: Ti le hy sinh = 5
 ---
 
 *File được tổng hợp phục vụ ôn tập môn Kinh tế Vĩ mô — NEU*
+# CÚ SỐC CẦU – CUNG: Phân tích tác động AD–AS
+
+> **Nguyên tắc đọc bảng này:**
+> Mỗi cú sốc đều có 2 giai đoạn: **ngắn hạn** (nền kinh tế chưa kịp điều chỉnh)
+> và **dài hạn** (nền kinh tế tự điều chỉnh về trạng thái cân bằng mới).
+
+---
+
+## I. CÚ SỐC CẦU (AD thay đổi)
+
+> **Nguyên nhân ví dụ:** Chính phủ tăng/giảm chi tiêu, NHTW nới lỏng/thắt chặt tiền tệ,
+> người dân lạc quan/bi quan về kinh tế, xuất khẩu tăng/giảm...
+
+---
+
+### 1. Cú sốc cầu CÓ LỢI — AD tăng (dịch sang phải)
+
+#### Ngắn hạn
+
+```
+AD tang => Duong AD dich sang PHAI
+        => Gia tang, San luong (Y) tang
+```
+
+- Doanh nghiệp bán được nhiều hơn → tăng sản xuất, tuyển thêm lao động
+- **Kết quả:** Giá ↑ và Lượng cân bằng ↑
+
+#### Dài hạn — Cơ chế tự điều chỉnh
+
+```
+Y_cb > Y_tu nhien (Y_tr)
+  => Nen kinh te vuot muc toan dung (thieu hut nguon luc)
+  => Thi truong lao dong "nong": nguoi lao dong doi luong cao hon
+  => Tien luong danh nghia TANG
+  => Chi phi san xuat cua doanh nghiep TANG
+  => AS_SR (Tong cung ngan han) GIAM, dich sang TRAI
+  => Gia tiep tuc TANG, San luong keo ve muc Y_tu nhien
+```
+
+| | Ngắn hạn | Dài hạn |
+|---|---|---|
+| **Giá** | ↑ | ↑ (tiếp tục tăng) |
+| **Sản lượng Y** | ↑ | Không đổi (về Y_tr) |
+
+> 💡 **Ghi nhớ:** AD tăng → dài hạn chỉ làm **tăng giá**, sản lượng thực không thay đổi.
+> Đây chính là lý do lạm phát xảy ra khi kích cầu quá mức.
+
+---
+
+### 2. Cú sốc cầu BẤT LỢI — AD giảm (dịch sang trái)
+
+#### Ngắn hạn
+
+```
+AD giam => Duong AD dich sang TRAI
+        => Gia giam, San luong (Y) giam
+```
+
+- Doanh nghiệp bán ít hơn → cắt giảm sản xuất, sa thải lao động
+- **Kết quả:** Giá ↓ và Lượng cân bằng ↓ → **Suy thoái**
+
+#### Dài hạn — Cơ chế tự điều chỉnh
+
+```
+Y_cb < Y_tu nhien (Y_tr)
+  => Nen kinh te duoi muc toan dung (du thua nguon luc)
+  => Thi truong lao dong "lanh": that nghiep nhieu, NLD chap nhan luong thap hon
+  => Tien luong danh nghia GIAM
+  => Chi phi san xuat cua doanh nghiep GIAM
+  => AS_SR (Tong cung ngan han) TANG, dich sang PHAI
+  => Gia GIAM them, San luong keo ve muc Y_tu nhien
+```
+
+| | Ngắn hạn | Dài hạn |
+|---|---|---|
+| **Giá** | ↓ | ↓ (tiếp tục giảm) |
+| **Sản lượng Y** | ↓ | Không đổi (về Y_tr) |
+
+> 💡 **Ghi nhớ:** AD giảm → dài hạn chỉ làm **giảm giá**, sản lượng thực không thay đổi.
+> Đây là lý do Chính phủ thường can thiệp kích cầu khi suy thoái (không chờ tự điều chỉnh vì quá chậm).
+
+---
+
+## II. CÚ SỐC CUNG (AS thay đổi)
+
+> **Nguyên nhân ví dụ:** Giá dầu tăng/giảm, thiên tai, công nghệ mới,
+> chính sách thuế doanh nghiệp, năng suất lao động thay đổi...
+
+---
+
+### 3. Cú sốc cung CÓ LỢI — AS tăng (dịch sang phải)
+
+#### Ngắn hạn
+
+```
+AS_SR tang => Duong AS dich sang PHAI
+           => Gia GIAM, San luong (Y) TANG
+```
+
+- Chi phí sản xuất giảm → doanh nghiệp cung nhiều hơn ở mọi mức giá
+- **Kết quả:** Giá ↓ và Lượng cân bằng ↑ → **Lý tưởng nhất** (vừa nhiều hàng vừa rẻ)
+
+#### Dài hạn — Cơ chế tự điều chỉnh
+
+```
+Y_cb > Y_tu nhien (Y_tr)
+  => Nen kinh te vuot muc toan dung (thieu hut nguon luc)
+  => Tien luong danh nghia TANG
+  => Chi phi san xuat TANG
+  => AS_SR GIAM, dich sang TRAI tro ve trang thai ban dau
+```
+
+| | Ngắn hạn | Dài hạn |
+|---|---|---|
+| **Giá** | ↓ | Không đổi (về ban đầu) |
+| **Sản lượng Y** | ↑ | Không đổi (về Y_tr) |
+
+> 💡 **Ghi nhớ:** Cú sốc cung có lợi chỉ tạo ra lợi ích **tạm thời** trong ngắn hạn.
+> Dài hạn mọi thứ trở về như cũ — trừ khi cú sốc đó là **cải tiến công nghệ vĩnh viễn**
+> (thì AS_LR mới thực sự dịch chuyển, Y_tr tăng thật sự).
+
+---
+
+### 4. Cú sốc cung BẤT LỢI — AS giảm (dịch sang trái)
+
+#### Ngắn hạn
+
+```
+AS_SR giam => Duong AS dich sang TRAI
+           => Gia TANG, San luong (Y) GIAM
+```
+
+- Chi phí sản xuất tăng đột ngột (ví dụ: giá dầu tăng mạnh)
+- **Kết quả:** Giá ↑ và Lượng ↓ → **Đình lạm (Stagflation)** — tình huống khó xử nhất
+
+#### Dài hạn — Cơ chế tự điều chỉnh
+
+```
+Y_cb < Y_tu nhien (Y_tr)
+  => Nen kinh te duoi muc toan dung (du thua nguon luc)
+  => Tien luong danh nghia GIAM
+  => Chi phi san xuat GIAM
+  => AS_SR TANG, dich sang PHAI tro ve trang thai ban dau
+```
+
+| | Ngắn hạn | Dài hạn |
+|---|---|---|
+| **Giá** | ↑ | Không đổi (về ban đầu) |
+| **Sản lượng Y** | ↓ | Không đổi (về Y_tr) |
+
+> 💡 **Ghi nhớ:** Cú sốc cung bất lợi → **Đình lạm** (vừa lạm phát vừa suy thoái).
+> Chính sách tiền tệ/tài khóa rất khó can thiệp vì:
+> - Kích cầu → giải quyết được suy thoái nhưng làm **lạm phát tồi tệ hơn**
+> - Thắt chặt → kiểm soát lạm phát nhưng làm **suy thoái nặng hơn**
+
+---
+
+## III. BẢNG TỔNG HỢP
+
+| Loại cú sốc | Chiều dịch | Ngắn hạn: Giá | Ngắn hạn: Y | Dài hạn: Giá | Dài hạn: Y |
+|---|---|---|---|---|---|
+| **Cầu có lợi** (AD tăng) | AD → phải | ↑ | ↑ | ↑ | Không đổi |
+| **Cầu bất lợi** (AD giảm) | AD → trái | ↓ | ↓ | ↓ | Không đổi |
+| **Cung có lợi** (AS tăng) | AS → phải | ↓ | ↑ | Không đổi | Không đổi |
+| **Cung bất lợi** (AS giảm) | AS → trái | ↑ | ↓ | Không đổi | Không đổi |
+
+---
+
+## IV. LOGIC CỐT LÕI CẦN NHỚ
+
+### Tại sao dài hạn sản lượng luôn về Y_tr?
+
+```
+Y_tr (San luong tu nhien) la muc san luong khi:
+  - Tat ca nguon luc duoc su dung hieu qua
+  - That nghiep chi con that nghiep tu nhien (frictional + structural)
+  - Khong co suc ep lam phat hay giam phat
+
+Bat ke AD hay AS thay doi the nao,
+co che tien luong linh hoat trong dai han
+se dua nen kinh te tro ve Y_tr.
+```
+
+### Sự khác biệt mấu chốt giữa cú sốc Cầu và Cung
+
+| | Cú sốc Cầu | Cú sốc Cung |
+|---|---|---|
+| **Giá và Y ngắn hạn** | Cùng chiều (cả 2 tăng hoặc cả 2 giảm) | Ngược chiều (1 tăng, 1 giảm) |
+| **Công cụ chính sách** | Dễ can thiệp (kích cầu hoặc thắt chặt) | Khó can thiệp (đánh đổi giữa lạm phát và suy thoái) |
+| **Dài hạn** | Chỉ thay đổi giá | Trở về trạng thái ban đầu |
+
+### Cơ chế tự điều chỉnh — Chìa khóa
+
+```
+Y_cb > Y_tr  =>  Thieu nguon luc  =>  Luong tang  =>  CP tang  =>  AS_SR giam  =>  Y ve Y_tr
+Y_cb < Y_tr  =>  Du thua nguon luc =>  Luong giam  =>  CP giam  =>  AS_SR tang  =>  Y ve Y_tr
+```
+
+> **Vấn đề thực tế:** Cơ chế tự điều chỉnh này rất **chậm** (có thể mất nhiều năm),
+> đặc biệt là chiều đi xuống (tiền lương rất khó giảm trong thực tế — "Sticky Wages").
+> Đây là lý do Keynes nói: *"Trong dài hạn, tất cả chúng ta đều đã chết."*
+
+---
+
+*Ghi chú: Y_cb = Sản lượng cân bằng thực tế | Y_tr = Sản lượng tự nhiên (tiềm năng)*
+*AS_SR = Tổng cung ngắn hạn | AS_LR = Tổng cung dài hạn*
