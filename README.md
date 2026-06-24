@@ -59,7 +59,7 @@
 
 ---
 
-## Chương 1 & 2 — GDP và CPI
+## ***Chương 1 & 2 — GDP và CPI
 
 ### Tổng sản phẩm quốc nội (GDP)
 
@@ -133,7 +133,7 @@ CPI(t1) / CPI(t2) = P(t1) / P(t2) = W(t1) / W(t2)
 
 ---
 
-## Chương 3 — Sản xuất và Tăng trưởng
+## ***Chương 3 — Sản xuất và Tăng trưởng
 
 ### Công thức năng suất
 
@@ -164,7 +164,7 @@ GDP binh quan dau nguoi = GDP / Dan so
 
 ---
 
-## Chương 4 — Tiết kiệm, Đầu tư và Hệ thống Tài chính
+## ***Chương 4 — Tiết kiệm, Đầu tư và Hệ thống Tài chính
 
 ### Công thức tiết kiệm
 
@@ -202,7 +202,7 @@ He thong tai chinh = Thi truong tai chinh + Trung gian tai chinh
 
 ---
 
-## Chương 5 — Các công cụ Tài chính cơ bản
+## ***Chương 5 — Các công cụ Tài chính cơ bản
 
 ### Rủi ro và đa dạng hóa
 
@@ -237,7 +237,7 @@ P/E cao => Co phieu dat so voi thu nhap hien tai
 
 ---
 
-## Chương 6 — Thất nghiệp
+## ***Chương 6 — Thất nghiệp
 
 ### Công thức
 
@@ -269,7 +269,7 @@ Doanh nghiệp duy trì lương **cao hơn mức cân bằng** vì 5 lợi ích:
 
 ---
 
-## Chương 7 — Hệ thống Tiền tệ
+## ***Chương 7 — Hệ thống Tiền tệ
 
 ### Công thức cung tiền
 
@@ -322,7 +322,7 @@ M2 = M1 + Tien gui ky han ngan + Quy tuong ho thi truong tien te
 
 ---
 
-## Chương 8 — Lạm phát
+## ***Chương 8 — Lạm phát
 
 ### Công thức
 
@@ -383,7 +383,7 @@ Ti le hy sinh = So diem % san luong bi mat khi lam phat giam 1%
 
 ---
 
-## Chương 9 — Kinh tế mở
+## ***Chương 9 — Kinh tế mở
 
 ### Công thức
 
@@ -411,7 +411,7 @@ BOP = Tai khoan vang lai + Tai khoan von + Du tru ngoai hoi
 
 ---
 
-## Chương 10 — Tổng cầu – Tổng cung (AD–AS)
+## ***Chương 10 — Tổng cầu – Tổng cung (AD–AS)
 
 ### Tổng cầu
 
@@ -466,7 +466,7 @@ Ha lai suat (2001)
 
 ---
 
-## Chương 11 — Lạm phát & Thất nghiệp (Đường Phillips)
+## ***Chương 11 — Lạm phát & Thất nghiệp (Đường Phillips)
 
 ### Đường Phillips ngắn hạn
 
