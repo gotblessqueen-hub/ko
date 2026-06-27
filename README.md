@@ -1,5 +1,12 @@
 # 📚 BẢN LÝ THUYẾT TỔNG HỢP — CHỦ NGHĨA XÃ HỘI KHOA HỌC
 **7 Chương | Ôn thi Cuối Kỳ | Gạch đầu dòng & Trọng tâm**
+"Vô sản tất cả các nước, đoàn kết lại!" → C.Mác và Ph.Ăng-ghen (Tuyên ngôn ĐCS, 1848)                        
+"Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại!" → V.I. Lênin (Quốc tế III)                                
+"Nhờ sự liên minh của các đại biểu khoa học, giai cấp vô sản và những nhà kỹ thuật, không một thế lực đen tối nào đứng vững được" → V.I. Lênin                         
+"Trong vòng chưa đầy một thế kỷ, chủ nghĩa tư bản đã tạo ra được một lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất mà nhân loại đã tạo ra trước đó" → C.Mác và Ph.Ăng-ghen (Tuyên ngôn ĐCS)                
+"Chuyên chính vô sản là một trạng thái đặc biệt của liên minh giai cấp giữa giai cấp vô sản... với đông đảo các tầng lớp lao động không phải vô sản" → V.I. Lênin                                               
+"Gia đình là tế bào của xã hội" → V.I. Lênin                    
+"Lịch sử của tất cả các xã hội tồn tại từ trước đến ngày nay chỉ là lịch sử đấu tranh giai cấp" → C.Mác và Ph.Ăng-ghen (Tuyên ngôn ĐCS)                                  
 
 ---
 Tiền đề ra đời CNXHKH
