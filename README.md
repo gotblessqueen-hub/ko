@@ -2,6 +2,39 @@
 **7 Chương | Ôn thi Cuối Kỳ | Gạch đầu dòng & Trọng tâm**
 
 ---
+Tiền đề ra đời CNXHKH
+1844 – C.Mác viết "Góp phần phê phán triết học pháp quyền của Hêghen. Lời nói đầu" → chuyển từ duy tâm sang duy vật, từ dân chủ sang cộng sản       
+1844 – Mác & Ăng-ghen gặp nhau lần đầu tại Paris, bắt đầu hợp tác          
+1845 – Mác viết "Luận cương về Phơ-bách" → nêu luận điểm cải tạo thế giới        
+1845–1846 – Mác & Ăng-ghen viết "Hệ tư tưởng Đức" → phác thảo CNDV lịch sử       
+1847 – Mác & Ăng-ghen viết "Sự khốn cùng của triết học" (phê phán Proudhon)
+Ra đời CNXHKH          
+2/1848 – "Tuyên ngôn của Đảng Cộng sản" ra đời → mốc ra đời chính thức của CNXHKH            
+Câu kết: "Vô sản tất cả các nước, đoàn kết lại!" (Mác & Ăng-ghen)                    
+Phát triển – Mác & Ăng-ghen                      
+1864 – Thành lập Quốc tế I (Hội Liên hiệp Lao động Quốc tế)                     
+1867 – Mác xuất bản "Bộ Tư bản" Quyển I → học thuyết giá trị thặng dư                        
+1871 – Công xã Paris (72 ngày, 18/3–28/5/1871) → nhà nước kiểu mới đầu tiên                   
+1875 – Mác viết "Phê phán Cương lĩnh Gô-ta" → lý luận về giai đoạn CNXH và CSCN                  
+1884 – Ăng-ghen viết "Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước"                   
+1895 – Ăng-ghen mất                           
+Phát triển – Lênin                             
+1903 – Đảng Công nhân XHDC Nga thành lập (phái Bolshevik/Menshevik tách nhau)                       
+1916 – Lênin viết "Chủ nghĩa đế quốc, giai đoạn tột cùng của chủ nghĩa tư bản                           "
+4/1917 – Lênin về nước, đọc "Luận cương tháng Tư"                     
+11/1917 – Cách mạng tháng Mười Nga thắng lợi → nhà nước XHCN đầu tiên ra đời                          
+Slogan của Lênin: "Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại!"                                     
+1919 – Thành lập Quốc tế III (Comintern)                        
+1924 – Lênin mất                
+Việt Nam        
+1930 – Đảng Cộng sản Việt Nam thành lập (3/2/1930)                 
+1945 – Cách mạng tháng Tám thành công, nước VNDCCH ra đời (2/9/1945)         
+1975 – Giải phóng miền Nam, thống nhất đất nước           
+1986 – Đại hội VI → Đổi mới, chuyển sang kinh tế thị trường định hướng XHCN                
+1991 – 6 dac trung 7 phuong huong cnxh . Liên Xô và Đông Âu sụp đổ (do sai lầm đường lối, không phải do học thuyết ML lỗi thời)                  
+2011 – Đại hội XI → xác định 8 đặc trưng + 8 phương hướng CNXH ở VN              
+2016 – Đại hội XII → 12 nhiệm vụ cơ bản                
+
 
 ## 📌 BẢNG TÓM TẮT TRỌNG TÂM CÁC CHƯƠNG
 
