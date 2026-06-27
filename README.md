@@ -1,5 +1,37 @@
 # 📚 BẢN LÝ THUYẾT TỔNG HỢP — CHỦ NGHĨA XÃ HỘI KHOA HỌC
 **7 Chương | Ôn thi Cuối Kỳ | Gạch đầu dòng & Trọng tâm**
+Tuyên ngôn của Đảng Cộng sản
+Mác & Ăng-ghen
+1848
+Bộ Tư bản (Q.I)
+C.Mác
+1867
+Nguồn gốc của gia đình, chế độ tư hữu và nhà nước
+Ph.Ăng-ghen
+1884
+Góp phần phê phán triết học pháp quyền của Hêghen. Lời nói đầu
+C.Mác
+1844
+Luận cương về Phơ-bách
+C.Mác
+1845
+Hệ tư tưởng Đức
+Mác & Ăng-ghen
+1845–1846
+Sự khốn cùng của triết học
+C.Mác
+1847
+Phê phán Cương lĩnh Gô-ta
+C.Mác
+1875
+Chủ nghĩa đế quốc, giai đoạn tột cùng của CNTB
+V.I. Lênin
+1916
+Luận cương tháng Tư
+V.I. Lênin
+1917
+
+
 "Vô sản tất cả các nước, đoàn kết lại!" → C.Mác và Ph.Ăng-ghen (Tuyên ngôn ĐCS, 1848)                        
 "Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại!" → V.I. Lênin (Quốc tế III)                                
 "Nhờ sự liên minh của các đại biểu khoa học, giai cấp vô sản và những nhà kỹ thuật, không một thế lực đen tối nào đứng vững được" → V.I. Lênin                         
